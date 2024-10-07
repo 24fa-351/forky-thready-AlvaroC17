@@ -1,0 +1,115 @@
+
+---- Pattern 1: Run 1 ----
+---- Pattern 1: Run 2 ----
+---- Pattern 1: Run 3 ----
+---- Pattern 1: Run 1 ----
+Process 3 beginning
+Process 3 exiting
+Process 5 beginning
+Process 5 exiting
+Process 1 beginning
+Process 1 exiting
+Process 2 beginning
+Process 2 exiting
+Process 4 beginning
+Process 4 exiting
+Process 6 beginning
+Process 6 exiting
+Process 7 beginning
+Process 7 exiting
+---- Pattern 1: Run 2 ----
+Process 3 beginning
+Process 3 exiting
+Process 1 beginning
+Process 1 exiting
+Process 2 beginning
+Process 2 exiting
+Process 4 beginning
+Process 4 exiting
+Process 6 beginning
+Process 6 exiting
+Process 5 beginning
+Process 5 exiting
+Process 7 beginning
+Process 7 exiting
+---- Pattern 1: Run 3 ----
+Process 3 beginning
+Process 3 exiting
+Process 4 beginning
+Process 4 exiting
+Process 2 beginning
+Process 2 exiting
+Process 5 beginning
+Process 5 exiting
+Process 1 beginning
+Process 1 exiting
+Process 6 beginning
+Process 6 exiting
+Process 7 beginning
+Process 7 exiting
+---- Pattern 2: Run 1 ----
+Main creating Process 1
+Process 1 beginning
+Process 1 exiting
+Main creating Process 2
+Process 2 beginning
+Process 2 exiting
+Main creating Process 3
+Process 3 beginning
+Process 3 exiting
+Main creating Process 4
+Process 4 beginning
+Process 4 exiting
+Main creating Process 5
+Process 5 beginning
+Process 5 exiting
+Main creating Process 6
+Process 6 beginning
+Process 6 exiting
+Main creating Process 7
+Process 7 beginning
+Process 7 exiting
+---- Pattern 2: Run 2 ----
+Main creating Process 1
+Process 1 beginning
+Process 1 exiting
+Main creating Process 2
+Process 2 beginning
+Process 2 exiting
+Main creating Process 3
+Process 3 beginning
+Process 3 exiting
+Main creating Process 4
+Process 4 beginning
+Process 4 exiting
+Main creating Process 5
+Process 5 beginning
+Process 5 exiting
+Main creating Process 6
+Process 6 beginning
+Process 6 exiting
+Main creating Process 7
+Process 7 beginning
+Process 7 exiting
+---- Pattern 2: Run 3 ----
+Main creating Process 1
+Process 1 beginning
+Process 1 exiting
+Main creating Process 2
+Process 2 beginning
+Process 2 exiting
+Main creating Process 3
+Process 3 beginning
+Process 3 exiting
+Main creating Process 4
+Process 4 beginning
+Process 4 exiting
+Main creating Process 5
+Process 5 beginning
+Process 5 exiting
+Main creating Process 6
+Process 6 beginning
+Process 6 exiting
+Main creating Process 7
+Process 7 beginning
+Process 7 exiting
